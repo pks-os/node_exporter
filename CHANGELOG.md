@@ -2,6 +2,9 @@
 
 ### **Breaking changes**
 
+* Renamed `interface` label to `device` in netclass collector for consistency with
+  other network metrics #1224
+
 ### Changes
 
 * [BUGFIX]
